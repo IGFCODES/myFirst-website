@@ -158,7 +158,7 @@ nav {
 
 /* Dropdown Button*/
 .dropbtn {
-    /* background: linear-gradient(135deg, #3498db, #8e44ad); */
+    background: linear-gradient(135deg, #3498db, #8e44ad);
     color: white;
     padding: 10px 10px;
     /* font-size: 16px; */
@@ -447,5 +447,6 @@ body {
 }
 
     
+
 
 
