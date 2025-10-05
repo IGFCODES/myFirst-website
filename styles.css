@@ -58,8 +58,6 @@ body {
     color: goldenrod;
     opacity: 0;
     animation: fadeIn 1s ease-in forwards0.5s;
-    position: relative;
-    display: flex;
 }
 
 /* Amimation */
@@ -139,7 +137,10 @@ nav {
     border: none;
     cursor: pointer;
     border-radius: 5px;
-    margin: 5px 5px;
+    /* margin: 5px 5px; */
+    display: flex;
+    align-items: center;
+    gap: 5px;
     
 }
 
@@ -427,6 +428,7 @@ body {
 }
 
     
+
 
 
 
