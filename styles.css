@@ -149,9 +149,9 @@ nav {
 .dropdown {
     position: relative;
     display: inline-block;
-    position: absolute;
+    /* position: absolute;
     left: 1%;
-    top: 1%;
+    top: 1%; */
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -177,7 +177,7 @@ nav {
 /* Change Color on hover */
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+    /* background-color: #ddd; */
 }
 
 /* Show dropdown when hovering */
@@ -319,9 +319,10 @@ button:hover {
 }
 
 /* responsive design */
-@media screen and (min-with: 768px) {
+
+@media (min-with: 768px) {
     header {
-        flex-direction: column;
+        flex-direction: row;
         text-align: center;
         padding: 10px;
     }
@@ -365,6 +366,7 @@ body {
 }
 
 /* Styling for contact links */
+
 .footer-content a, .footer-content span {
     text-decoration: none;
     color: blue;
@@ -409,7 +411,7 @@ body {
 }
 
 /* Responsive Design */
-@media screen and (min-with: 768px) {
+@media (min-with: 768px) {
     .footer-content {
         flex-direction: column;
     }
@@ -428,6 +430,7 @@ body {
 }
 
     
+
 
 
 
