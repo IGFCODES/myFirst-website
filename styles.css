@@ -133,7 +133,7 @@ nav {
     /* background: linear-gradient(135deg, #3498db, #8e44ad); */
     background-color: white;
     color: black;
-    /* padding: 5px; */
+    padding: 5px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
@@ -425,6 +425,7 @@ body {
 }
 
     
+
 
 
 
