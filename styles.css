@@ -129,9 +129,10 @@ nav {
 
 /* Dropdown Button*/
 
-/* .dropbtn {
-    background: linear-gradient(135deg, #3498db, #8e44ad);
-    color: white;
+.dropbtn {
+    /* background: linear-gradient(135deg, #3498db, #8e44ad); */
+    background-color: white;
+    color: black;
     padding: 15px 15px;
     font-size: 16px;
     border: none;
@@ -139,7 +140,7 @@ nav {
     border-radius: 5px;
     margin-top: 0;
     padding-top: 0;
-} */
+}
 
 /* Dropdown container */
 
@@ -148,7 +149,7 @@ nav {
     display: inline-block;
     position: absolute;
     left: 1%;
-    top: 5%;
+    top: 1%;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -425,6 +426,7 @@ body {
 }
 
     
+
 
 
 
