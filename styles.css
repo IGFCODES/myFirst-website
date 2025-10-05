@@ -1,4 +1,5 @@
-/* reset styles */
+/* Reset Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,6 +7,7 @@
 }
 
 /* general styling */
+
  h1 {
     font-size: 20px;
     color: orangered;
@@ -24,7 +26,8 @@ body {
     padding: 0;
 }
 
-/* logo container */
+/* Logo Container */
+
 .logo {
     display: flex;
     align-items: center;
@@ -37,7 +40,8 @@ body {
     animation: popIn 0.8s ease-out forwards;
 }
 
-/* circle animation */
+/* Circle Animation */
+
 .circle {
     width: 20px;
     height: 20px;
@@ -46,7 +50,8 @@ body {
     animation: pulse 1.5s infinite alternate;
 }
 
-* brand name*
+/* Brand Name */
+
 .brand-name {
     font-size: 28px;
     font-weight: bold;
@@ -55,7 +60,8 @@ body {
     animation: fadeIn 1s ease-in forwards0.5s;
 }
 
-/* amimation */
+/* Amimation */
+
 @keyframes popIn {
     from{
         transform: scale(0.5);
@@ -87,11 +93,14 @@ body {
     }
 }
 
+/* Container */
+
 .container {
     max-width: 100vw;
 } 
 
-/* header styles */
+/* Header Styles */
+
 header {
     height: 50px;
     display: flex;
@@ -110,46 +119,8 @@ header {
     z-index: 1000;
 }
 
- /*header ul {
-    display: flex;
-    list-style: none;
-    
-   
-}
-
- a {
-    text-decoration: none;
-    text-transform: none;
- }
-
-  li {
-    padding-right: 10px;
- }
-
-/* navigation menu 
-.nav-links {
-    list-style: none;
-    display: flex;
-    gap: 20px;
-    padding-left: 100vh;
-}
-
-.nav-links li a {
-text-decoration: none;
-font-size: 1rem;
-color: blue;
-transition: color 0.3s;
-padding: 2px;
-background-color: white;
-text-align: center;
-display: inline-block;
-}
-
-.nav-links li a:hover {
-    color: #3498db;
-}
-
 /*Navigation Bar*/
+
 nav {
     padding: 2px;
     text-align: left;
@@ -157,11 +128,12 @@ nav {
 }
 
 /* Dropdown Button*/
+
 .dropbtn {
-    background: linear-gradient(135deg, #3498db, #8e44ad);
+    /* background: linear-gradient(135deg, #3498db, #8e44ad); */
     color: white;
     padding: 15px 15px;
-    font-size: 16px;
+    /* font-size: 16px; */
     border: none;
     cursor: pointer;
     border-radius: 5px;
@@ -173,11 +145,12 @@ nav {
     position: relative;
     display: inline-block;
     position: absolute;
-    right: 1%;
+    left: 1%;
     top: 5%;
 }
 
 /* Dropdown Content (Hidden by Default) */
+
 .dropdown-content {
     display: none;
     position: absolute;
@@ -188,6 +161,7 @@ nav {
 }
 
 /* Dropdown Links */
+
 .dropdown-content a {
     color: black;
     padding: 15px 20px;
@@ -196,11 +170,13 @@ nav {
 }
 
 /* Change Color on hover */
+
 .dropdown-content a:hover {
     background-color: #ddd;
 }
 
 /* Show dropdown when hovering */
+
 .dropdown:hover .dropdown-content {
     display: block;
 }
@@ -447,6 +423,7 @@ body {
 }
 
     
+
 
 
 
