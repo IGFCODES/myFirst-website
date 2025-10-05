@@ -148,10 +148,10 @@ nav {
     position: absolute;
     left: 1%;
     top: 1%;
-    display: flex;
+    /* display: flex;
     flex-direction: row;
     align-items: center;
-    flex-wrap: wrap
+    flex-wrap: wrap */
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -430,6 +430,7 @@ body {
 }
 
     
+
 
 
 
