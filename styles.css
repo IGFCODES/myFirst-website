@@ -121,11 +121,11 @@ header {
 
 /*Navigation Bar*/
 
-nav {
+/* nav {
     padding: 2px;
     text-align: left;
     border-radius: 5px;
-}
+} */
 
 /* Dropdown Button*/
 
@@ -142,13 +142,14 @@ nav {
 } */
 
 /* Dropdown container */
-.dropdown {
+
+/* .dropdown {
     position: relative;
     display: inline-block;
     position: absolute;
     left: 1%;
     top: 5%;
-}
+} */
 
 /* Dropdown Content (Hidden by Default) */
 
@@ -424,6 +425,7 @@ body {
 }
 
     
+
 
 
 
