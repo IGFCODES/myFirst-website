@@ -104,11 +104,11 @@ body {
 /* Header Styles */
 
 header {
-    height: 50px;
+    height: 100px;
     display: flex;
     background: snow; 
     border-bottom: #ca4343fb 5px solid;
-    border-radius: 50px;
+    /* border-radius: 50px; */
     justify-content: space-between;
     align-items: center;
     padding: 15px 5%;
@@ -427,6 +427,7 @@ body {
 }
 
     
+
 
 
 
