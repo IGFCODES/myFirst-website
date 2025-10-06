@@ -106,7 +106,7 @@ header {
     display: flex;
     background: snow; 
     border-bottom: #ca4343fb 5px solid;
-    border-radius: 50px;
+    /* border-radius: 50px; */
     justify-content: space-between;
     align-items: center;
     padding: 15px 5%;
@@ -136,7 +136,7 @@ nav {
     padding: 10px;
     border: none;
     cursor: pointer;
-    /* border-radius: 5px; */
+    border-radius: 5px;
     /* margin: 10px; */  
 }
 
@@ -430,6 +430,7 @@ body {
 }
 
     
+
 
 
 
