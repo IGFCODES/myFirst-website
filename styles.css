@@ -95,9 +95,9 @@ body {
 
 /* Container */
 
-.container {
+/* .container {
     max-width: 100vw;
-} 
+}  */
 
 /* Header Styles */
 
@@ -320,7 +320,7 @@ button:hover {
 
 /* responsive design */
 
-@media (min-with: 768px) {
+/* @media (min-with: 768px) {
     header {
         flex-direction: row;
         text-align: center;
@@ -338,7 +338,7 @@ button:hover {
         width: 30px;
         height: 30px;
     }
-}
+} */
 
 body {
     display: flex;
@@ -411,11 +411,11 @@ body {
 }
 
 /* Responsive Design */
-@media (min-with: 768px) {
+/* @media (min-with: 768px) {
     .footer-content {
         flex-direction: column;
     }
-}
+} */
 
 /* Fade_in Animation */
 @keyframes fadeIn {
@@ -430,6 +430,7 @@ body {
 }
 
     
+
 
 
 
