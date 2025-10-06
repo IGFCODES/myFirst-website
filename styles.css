@@ -146,8 +146,8 @@ nav {
     position: relative;
     display: inline-block;
     position: absolute;
-    /* left: 1%;
-    top: 1%; */
+    left: 1%;
+    top: 1%;
     /* display: flex;
     flex-direction: row;
     align-items: center;
@@ -430,6 +430,7 @@ body {
 }
 
     
+
 
 
 
