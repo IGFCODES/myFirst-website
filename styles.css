@@ -62,7 +62,7 @@ body {
 
 /* Amimation */
 
-@keyframes popIn {
+/* @keyframes popIn {
     from{
         transform: scale(0.5);
         opacity: 0;
@@ -91,7 +91,7 @@ body {
         opacity: 1;
         transform: translateY(0);
     }
-}
+} */
 
 /* Container */
 
@@ -146,8 +146,8 @@ nav {
     position: relative;
     display: inline-block;
     position: absolute;
-    left: 1%;
-    top: 1%;
+    /* left: 1%;
+    top: 1%; */
     /* display: flex;
     flex-direction: row;
     align-items: center;
@@ -430,6 +430,7 @@ body {
 }
 
     
+
 
 
 
